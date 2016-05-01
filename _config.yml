@@ -1,0 +1,14 @@
+layout_spectrum: 0.2383513
+color:
+  saturation: 0.6111111
+  brandStrength: 0.727645
+  lightness: 0.7007169
+  rhythmicContrast: 0.4408602
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+typography_spectrum: 0.8709677
+name: Dbthorn
