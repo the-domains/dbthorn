@@ -4,23 +4,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 typography_spectrum: 0.8709677
 color:
-  saturation: 0.2401434
+  saturation: 1
   brandStrength: 0.727645
-  lightness: 0.2311828
+  lightness: 0.9982079
   brandColors:
     - '#B8B42D'
     - '#697A21'
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  rhythmicContrast: 0.6326165
+  rhythmicContrast: 1
 layout_spectrum: 0.2383513
 name: Dbthorn
