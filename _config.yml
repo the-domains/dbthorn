@@ -10,17 +10,17 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.8709677
+typography_spectrum: 0
 color:
   saturation: 1
   brandStrength: 0.727645
-  lightness: 0.9982079
+  lightness: 1
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#FBFFFF'
+    - '#0E0E0E'
+    - '#4C4E37'
+    - '#A5B1B1'
+    - '#C8D4D4'
   rhythmicContrast: 1
-layout_spectrum: 0.2383513
+layout_spectrum: 1
 name: Dbthorn
